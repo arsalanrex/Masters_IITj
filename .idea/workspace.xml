@@ -141,15 +141,7 @@
       <workItem from="1718303687896" duration="4256000" />
       <workItem from="1719143739644" duration="2705000" />
       <workItem from="1721231321718" duration="5546000" />
-      <workItem from="1723932727178" duration="2818000" />
-    </task>
-    <task id="LOCAL-00001" summary="initialise">
-      <option name="closed" value="true" />
-      <created>1710998706052</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1710998706052</updated>
+      <workItem from="1723932727178" duration="3136000" />
     </task>
     <task id="LOCAL-00002" summary="modelling and simulations tutorial">
       <option name="closed" value="true" />
@@ -535,7 +527,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723934292773</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="bisection method">
+      <option name="closed" value="true" />
+      <created>1723935570589</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1723935570590</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
