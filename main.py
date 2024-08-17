@@ -1,44 +1,20 @@
-import sys
+import pandas as pd
 
-# Misra-Gries algorithm for k-frequent element detection
-def misra_gries(k, stream):
-    # Initialize an empty dictionary
-    freq_dict = {}
+roll_number = 'M23AID062'
 
-    # Process each character in the stream
-    for char in stream:
-        if char in freq_dict:
-            # If the character is already in the dictionary, increment its count
-            freq_dict[char] += 1
-        elif len(freq_dict) < k - 1:
-            # If there are fewer than k-1 elements in the dictionary, add the new character
-            freq_dict[char] = 1
-        else:
-            # Decrement count of every element in the dictionary
-            keys_to_remove = [] # List to keep track of elements to remove
-            for key in freq_dict:
-                freq_dict[key] -= 1 # Decrement each element's count by 1
-                if freq_dict[key] == 0:
-                    # If any count drops to zero, add that element to the removal list
-                    keys_to_remove.append(key)
-            for key in keys_to_remove:
-                del freq_dict[key] # Remove elements with a count of zero from the dictionary
+# Load data from CSV into a DataFrame
+df = pd.read_csv('/Users/arsalan/Downloads/Frac 3/Algorithms for Big Data/movies_datasets/M23AID059_data.csv', sep=',')
 
-    # Final output: elements with their approximate counts
-    return freq_dict
+# Compute average rating for each movieId
+avg_ratings = df.groupby('movieId')['rating'].mean().reset_index()
 
-if __name__ == "__main__":
+# Round avg rating to 2 decimal places
+avg_ratings['rating'] = avg_ratings['rating'].round(2)
 
-    k = int(sys.argv[1])  # First argument: k
-    stream = sys.argv[2]  # Second argument: data stream
+# Rename columns for output format
+avg_ratings.columns = ['movieId', 'avg_rating']
 
-    # Ensure k is at least 2 (since k-1 must be at least 1)
-    if k < 2:
-        print("k must be at least 2 parameters long")
-        sys.exit(1)
+# Write results to CSV
+avg_ratings.to_csv('M23AID059_output.csv', index=False)
 
-    # Run the Misra-Gries algorithm and get the result
-    result = misra_gries(k, stream)
-
-    # Print the result as a dictionary
-    print(result)
+print("Average ratings saved to M23AID0xx_output.csv")
