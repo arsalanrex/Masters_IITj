@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be64a338-4f8d-4bef-8724-675d8bf904ae" name="Changes" comment="ABD">
+      <change afterPath="$PROJECT_DIR$/Deep Learning/M23AID042.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Sem-II" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2dz6WedJLlACpZt2Uw4sh11lZYK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Summer-Sem-I&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/arsalan/Developer/Pycharm/Masters_IITj&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Algorithm for Big Data" />
+      <recent name="$PROJECT_DIR$/Modelling and Simulations - III" />
+      <recent name="$PROJECT_DIR$/Modelling and Simulations - III/IP" />
+      <recent name="$PROJECT_DIR$/IP" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Modelling and Simulations - III" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="predator_prey.m" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Masters_IITj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be64a338-4f8d-4bef-8724-675d8bf904ae" name="Changes" comment="" />
+      <created>1710998592959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710998592959</updated>
+      <workItem from="1710998594051" duration="302000" />
+      <workItem from="1710998910066" duration="2993000" />
+      <workItem from="1711002670866" duration="108000" />
+      <workItem from="1711002785831" duration="2448000" />
+      <workItem from="1711012863495" duration="7560000" />
+      <workItem from="1711079767470" duration="531000" />
+      <workItem from="1711081213283" duration="1761000" />
+      <workItem from="1711090264648" duration="592000" />
+      <workItem from="1711105606020" duration="26039000" />
+      <workItem from="1711271218346" duration="1163000" />
+      <workItem from="1711465433898" duration="2621000" />
+      <workItem from="1711551740967" duration="4888000" />
+      <workItem from="1711641848489" duration="4642000" />
+      <workItem from="1711713070277" duration="4326000" />
+      <workItem from="1711773362006" duration="681000" />
+      <workItem from="1711780004805" duration="2699000" />
+      <workItem from="1711865888894" duration="171000" />
+      <workItem from="1711867370238" duration="6957000" />
+      <workItem from="1712059047217" duration="34000" />
+      <workItem from="1712139938871" duration="27000" />
+      <workItem from="1712145760472" duration="233000" />
+      <workItem from="1712247167482" duration="15305000" />
+      <workItem from="1712386550075" duration="1340000" />
+      <workItem from="1712471662972" duration="2034000" />
+      <workItem from="1712597711855" duration="2497000" />
+      <workItem from="1713246078776" duration="8395000" />
+      <workItem from="1713683206469" duration="3466000" />
+      <workItem from="1713875024745" duration="4024000" />
+      <workItem from="1714128717509" duration="1840000" />
+      <workItem from="1714380311997" duration="3847000" />
+      <workItem from="1714585855708" duration="5561000" />
+      <workItem from="1717088152952" duration="1115000" />
+      <workItem from="1718303687896" duration="4256000" />
+      <workItem from="1719143739644" duration="2705000" />
+      <workItem from="1721231321718" duration="5546000" />
+    </task>
+    <task id="LOCAL-00001" summary="initialise">
+      <option name="closed" value="true" />
+      <created>1710998706052</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710998706052</updated>
+    </task>
+    <task id="LOCAL-00002" summary="modelling and simulations tutorial">
+      <option name="closed" value="true" />
+      <created>1710999040924</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710999040924</updated>
+    </task>
+    <task id="LOCAL-00003" summary="modelling and simulations tutorial">
+      <option name="closed" value="true" />
+      <created>1710999194344</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710999194344</updated>
+    </task>
+    <task id="LOCAL-00004" summary="modelling and simulations">
+      <option name="closed" value="true" />
+      <created>1711000877467</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711000877467</updated>
+    </task>
+    <task id="LOCAL-00005" summary="machine learning files">
+      <option name="closed" value="true" />
+      <created>1711000975092</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711000975092</updated>
+    </task>
+    <task id="LOCAL-00006" summary="gauss jacobi step wise">
+      <option name="closed" value="true" />
+      <created>1711003306872</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711003306872</updated>
+    </task>
+    <task id="LOCAL-00007" summary="extra comments">
+      <option name="closed" value="true" />
+      <created>1711003501811</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711003501811</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add tolerence in stepwise">
+      <option name="closed" value="true" />
+      <created>1711004351253</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711004351253</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added comments">
+      <option name="closed" value="true" />
+      <created>1711005901410</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711005901410</updated>
+    </task>
+    <task id="LOCAL-00010" summary="steepest descent">
+      <option name="closed" value="true" />
+      <created>1711014363822</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711014363822</updated>
+    </task>
+    <task id="LOCAL-00011" summary="steepest descent add graph">
+      <option name="closed" value="true" />
+      <created>1711015743383</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711015743383</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit plotly">
+      <option name="closed" value="true" />
+      <created>1711044874479</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711044874479</updated>
+    </task>
+    <task id="LOCAL-00013" summary="last min updates">
+      <option name="closed" value="true" />
+      <created>1711080168358</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711080168358</updated>
+    </task>
+    <task id="LOCAL-00014" summary="running code">
+      <option name="closed" value="true" />
+      <created>1711080264433</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711080264433</updated>
+    </task>
+    <task id="LOCAL-00015" summary="running code">
+      <option name="closed" value="true" />
+      <created>1711107726385</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711107726385</updated>
+    </task>
+    <task id="LOCAL-00016" summary="steepest descent functions fixed tolerence">
+      <option name="closed" value="true" />
+      <created>1711108300654</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1711108300654</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added graph and fixed tolerence">
+      <option name="closed" value="true" />
+      <created>1711109170626</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1711109170626</updated>
+    </task>
+    <task id="LOCAL-00018" summary="commit">
+      <option name="closed" value="true" />
+      <created>1711124185021</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1711124185021</updated>
+    </task>
+    <task id="LOCAL-00019" summary="kmeans in ml">
+      <option name="closed" value="true" />
+      <created>1711129484266</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1711129484266</updated>
+    </task>
+    <task id="LOCAL-00020" summary="new files ML">
+      <option name="closed" value="true" />
+      <created>1711158213648</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1711158213648</updated>
+    </task>
+    <task id="LOCAL-00021" summary="new files ML">
+      <option name="closed" value="true" />
+      <created>1711351158755</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1711351158755</updated>
+    </task>
+    <task id="LOCAL-00022" summary="mini project da">
+      <option name="closed" value="true" />
+      <created>1711560658438</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1711560658438</updated>
+    </task>
+    <task id="LOCAL-00023" summary="combined data">
+      <option name="closed" value="true" />
+      <created>1711561499232</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1711561499232</updated>
+    </task>
+    <task id="LOCAL-00024" summary="ml ass2 and da updates">
+      <option name="closed" value="true" />
+      <created>1711705310089</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1711705310089</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ml ass2 final fix">
+      <option name="closed" value="true" />
+      <created>1711733739764</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1711733739764</updated>
+    </task>
+    <task id="LOCAL-00026" summary="ml ass1 final fix">
+      <option name="closed" value="true" />
+      <created>1711774025319</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1711774025319</updated>
+    </task>
+    <task id="LOCAL-00027" summary="ml ass1 final fix">
+      <option name="closed" value="true" />
+      <created>1711896547840</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1711896547840</updated>
+    </task>
+    <task id="LOCAL-00028" summary="ML - III">
+      <option name="closed" value="true" />
+      <created>1712145908827</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1712145908827</updated>
+    </task>
+    <task id="LOCAL-00029" summary="ML - III">
+      <option name="closed" value="true" />
+      <created>1712292899582</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1712292899582</updated>
+    </task>
+    <task id="LOCAL-00030" summary="ML - III">
+      <option name="closed" value="true" />
+      <created>1712293961799</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1712293961799</updated>
+    </task>
+    <task id="LOCAL-00031" summary="modelling III tut">
+      <option name="closed" value="true" />
+      <created>1712337620781</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1712337620781</updated>
+    </task>
+    <task id="LOCAL-00032" summary="modelling III tut">
+      <option name="closed" value="true" />
+      <created>1712338060472</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1712338060472</updated>
+    </task>
+    <task id="LOCAL-00033" summary="modelling III tut">
+      <option name="closed" value="true" />
+      <created>1712339651267</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1712339651267</updated>
+    </task>
+    <task id="LOCAL-00034" summary="modelling III tut">
+      <option name="closed" value="true" />
+      <created>1712344410600</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1712344410600</updated>
+    </task>
+    <task id="LOCAL-00035" summary="modelling III tut">
+      <option name="closed" value="true" />
+      <created>1713246712862</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1713246712863</updated>
+    </task>
+    <task id="LOCAL-00036" summary="final year project">
+      <option name="closed" value="true" />
+      <created>1713248212537</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1713248212538</updated>
+    </task>
+    <task id="LOCAL-00037" summary="final year project">
+      <option name="closed" value="true" />
+      <created>1713683250692</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1713683250692</updated>
+    </task>
+    <task id="LOCAL-00038" summary="modelling quiz">
+      <option name="closed" value="true" />
+      <created>1713715151353</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1713715151353</updated>
+    </task>
+    <task id="LOCAL-00039" summary="modelling quiz">
+      <option name="closed" value="true" />
+      <created>1713960254230</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1713960254230</updated>
+    </task>
+    <task id="LOCAL-00040" summary="papers">
+      <option name="closed" value="true" />
+      <created>1713960313556</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1713960313556</updated>
+    </task>
+    <task id="LOCAL-00041" summary="test">
+      <option name="closed" value="true" />
+      <created>1714128726111</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1714128726111</updated>
+    </task>
+    <task id="LOCAL-00042" summary="tut 3 mms">
+      <option name="closed" value="true" />
+      <created>1714505225340</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1714505225340</updated>
+    </task>
+    <task id="LOCAL-00043" summary="summer sem 1">
+      <option name="closed" value="true" />
+      <created>1718303784211</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1718303784211</updated>
+    </task>
+    <task id="LOCAL-00044" summary="summer sem 1">
+      <option name="closed" value="true" />
+      <created>1718304553402</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1718304553402</updated>
+    </task>
+    <task id="LOCAL-00045" summary="summer sem 1">
+      <option name="closed" value="true" />
+      <created>1718359696639</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1718359696639</updated>
+    </task>
+    <task id="LOCAL-00046" summary="ABD">
+      <option name="closed" value="true" />
+      <created>1719144571723</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1719144571723</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Sem-II" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added comments" />
+    <MESSAGE value="steepest descent" />
+    <MESSAGE value="steepest descent add graph" />
+    <MESSAGE value="commit plotly" />
+    <MESSAGE value="last min updates" />
+    <MESSAGE value="running code" />
+    <MESSAGE value="steepest descent functions fixed tolerence" />
+    <MESSAGE value="added graph and fixed tolerence" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="kmeans in ml" />
+    <MESSAGE value="new files ML" />
+    <MESSAGE value="mini project da" />
+    <MESSAGE value="combined data" />
+    <MESSAGE value="ml ass2 and da updates" />
+    <MESSAGE value="ml ass2 final fix" />
+    <MESSAGE value="ml ass1 final fix" />
+    <MESSAGE value="ML - III" />
+    <MESSAGE value="modelling III tut" />
+    <MESSAGE value="final year project" />
+    <MESSAGE value="modelling quiz" />
+    <MESSAGE value="papers" />
+    <MESSAGE value="test" />
+    <MESSAGE value="tut 3 mms" />
+    <MESSAGE value="summer sem 1" />
+    <MESSAGE value="ABD" />
+    <option name="LAST_COMMIT_MESSAGE" value="ABD" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Masters_IITj$main.coverage" NAME="main Coverage Results" MODIFIED="1711013032484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_py$main.coverage" NAME="main Coverage Results" MODIFIED="1721237270036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
