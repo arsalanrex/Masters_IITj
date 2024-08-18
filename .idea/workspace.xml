@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be64a338-4f8d-4bef-8724-675d8bf904ae" name="Changes" comment="Newton Raphsons method">
+    <list default="true" id="be64a338-4f8d-4bef-8724-675d8bf904ae" name="Changes" comment="Secant method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Computational Physics/Roots of equation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Computational Physics/Roots of equation.ipynb" afterDir="false" />
     </list>
@@ -142,15 +142,7 @@
       <workItem from="1718303687896" duration="4256000" />
       <workItem from="1719143739644" duration="2705000" />
       <workItem from="1721231321718" duration="5546000" />
-      <workItem from="1723932727178" duration="6513000" />
-    </task>
-    <task id="LOCAL-00005" summary="machine learning files">
-      <option name="closed" value="true" />
-      <created>1711000975092</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1711000975092</updated>
+      <workItem from="1723932727178" duration="7980000" />
     </task>
     <task id="LOCAL-00006" summary="gauss jacobi step wise">
       <option name="closed" value="true" />
@@ -536,7 +528,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723938593496</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Secant method">
+      <option name="closed" value="true" />
+      <created>1723939354846</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1723939354846</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -566,7 +566,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit plotly" />
     <MESSAGE value="last min updates" />
     <MESSAGE value="running code" />
     <MESSAGE value="steepest descent functions fixed tolerence" />
@@ -591,7 +590,8 @@
     <MESSAGE value="bisection method" />
     <MESSAGE value="Newton Raphsons menthod" />
     <MESSAGE value="Newton Raphsons method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Newton Raphsons method" />
+    <MESSAGE value="Secant method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Secant method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
