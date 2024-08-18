@@ -31,7 +31,7 @@ def newton_raphson_method(x0, tol):
     f_prime_values = []
 
     # Print the table header
-    print(f"{'Iteration':<10} | {'x0':<8} | {'x1':<8} | {'f(x1)':<8} | {'f_prm(x1)':<8} | {'Tol':<10}")
+    print(f"{'Iteration':<10} | {'x0':<8} | {'x1':<8} | {'f(xn)':<8} | {'f_p(xn)':<8} | {'Tol':<10}")
     print('-' * 60)
 
     while abs(x1 - x0) > tol:
@@ -43,7 +43,7 @@ def newton_raphson_method(x0, tol):
         # Print current iteration details in tabular form
         iteration += 1
         print(
-            f"{iteration:<10} | {round(x0, decimals):<8} | {round(x1, decimals):<8} | {round(f(x1), decimals):<8} | {round(f_prime(x1), decimals):<8} | {round(abs(x1 - x0), decimals):<10}")
+            f"{iteration:<10} | {round(x0, decimals):<8} | {round(x1, decimals):<8} | {round(f(x0), decimals):<8} | {round(f_prime(x0), decimals):<8} | {round(abs(x1 - x0), decimals):<10}")
 
         # Update x0 and x1 for the next iteration
         x0 = x1
