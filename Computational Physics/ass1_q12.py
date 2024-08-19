@@ -6,7 +6,7 @@ import sympy as sp
 
 # Define the symbolic variable and function
 x = sp.Symbol('x')
-f_symbolic = x ** 2 - 4 * x - 7
+f_symbolic = x**2 - 4*x - 7
 
 # Define the derivative of the function symbolically
 f_prime_symbolic = sp.diff(f_symbolic, x)
@@ -31,8 +31,8 @@ def newton_raphson_method(x0, tol):
     f_prime_values = []
 
     # Print the table header
-    print(f"{'Iteration':<10} | {'x0':<8} | {'x1':<8} | {'f(xn)':<8} | {'f_p(xn)':<8} | {'Tol':<10}")
-    print('-' * 60)
+    print(f"{'Iteration':<10} | {'x0':<10} | {'x1':<10} | {'f(xn)':<10} | {'f_prm(xn)':<10} | {'Tol':<10}")
+    print('-' * 75)
 
     while abs(x1 - x0) > tol:
         # Append the current values of x0, f(x1), f'(x1), and tolerance
@@ -43,7 +43,7 @@ def newton_raphson_method(x0, tol):
         # Print current iteration details in tabular form
         iteration += 1
         print(
-            f"{iteration:<10} | {round(x0, decimals):<8} | {round(x1, decimals):<8} | {round(f(x0), decimals):<8} | {round(f_prime(x0), decimals):<8} | {round(abs(x1 - x0), decimals):<10}")
+            f"{iteration:<10} | {round(x0, decimals):<10} | {round(x1, decimals):<10} | {round(f(x0), decimals):<10} | {round(f_prime(x0), decimals):<10} | {round(abs(x1 - x0), decimals):<10}")
 
         # Update x0 and x1 for the next iteration
         x0 = x1
