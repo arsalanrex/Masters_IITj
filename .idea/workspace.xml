@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be64a338-4f8d-4bef-8724-675d8bf904ae" name="Changes" comment="initial commit">
+    <list default="true" id="be64a338-4f8d-4bef-8724-675d8bf904ae" name="Changes" comment="gaussiann func">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Computational Physics/linear equation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Computational Physics/linear equation.ipynb" afterDir="false" />
     </list>
@@ -144,15 +144,7 @@
       <workItem from="1721231321718" duration="5546000" />
       <workItem from="1723932727178" duration="28598000" />
       <workItem from="1724332405417" duration="5000" />
-      <workItem from="1725043952256" duration="6808000" />
-    </task>
-    <task id="LOCAL-00012" summary="commit plotly">
-      <option name="closed" value="true" />
-      <created>1711044874479</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1711044874479</updated>
+      <workItem from="1725043952256" duration="9346000" />
     </task>
     <task id="LOCAL-00013" summary="last min updates">
       <option name="closed" value="true" />
@@ -538,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725046176327</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="gaussiann func">
+      <option name="closed" value="true" />
+      <created>1725053009897</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1725053009897</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +568,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit" />
     <MESSAGE value="kmeans in ml" />
     <MESSAGE value="new files ML" />
     <MESSAGE value="mini project da" />
@@ -593,7 +592,8 @@
     <MESSAGE value="cp" />
     <MESSAGE value="corrections" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="gaussiann func" />
+    <option name="LAST_COMMIT_MESSAGE" value="gaussiann func" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
