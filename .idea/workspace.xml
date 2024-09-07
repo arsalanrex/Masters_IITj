@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be64a338-4f8d-4bef-8724-675d8bf904ae" name="Changes" comment="gaussiann func pritesh">
-      <change afterPath="$PROJECT_DIR$/AI/Ass 1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Computational Physics/linear equation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Computational Physics/linear equation.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="be64a338-4f8d-4bef-8724-675d8bf904ae" name="Changes" comment="AI ass I" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,15 +143,7 @@
       <workItem from="1724332405417" duration="5000" />
       <workItem from="1725043952256" duration="11366000" />
       <workItem from="1725513166790" duration="9000" />
-      <workItem from="1725656637039" duration="2302000" />
-    </task>
-    <task id="LOCAL-00014" summary="running code">
-      <option name="closed" value="true" />
-      <created>1711080264433</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1711080264433</updated>
+      <workItem from="1725656637039" duration="2534000" />
     </task>
     <task id="LOCAL-00015" summary="running code">
       <option name="closed" value="true" />
@@ -543,7 +529,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725165420971</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="AI ass I">
+      <option name="closed" value="true" />
+      <created>1725694799857</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1725694799858</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -573,7 +567,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="kmeans in ml" />
     <MESSAGE value="new files ML" />
     <MESSAGE value="mini project da" />
     <MESSAGE value="combined data" />
@@ -598,7 +591,8 @@
     <MESSAGE value="corrections" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="gaussiann func" />
-    <option name="LAST_COMMIT_MESSAGE" value="gaussiann func" />
+    <MESSAGE value="AI ass I" />
+    <option name="LAST_COMMIT_MESSAGE" value="AI ass I" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
