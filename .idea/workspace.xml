@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be64a338-4f8d-4bef-8724-675d8bf904ae" name="Changes" comment="gaussiann func">
+    <list default="true" id="be64a338-4f8d-4bef-8724-675d8bf904ae" name="Changes" comment="gaussiann func pritesh">
+      <change afterPath="$PROJECT_DIR$/AI/Ass 1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Computational Physics/linear equation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Computational Physics/linear equation.ipynb" afterDir="false" />
     </list>
@@ -144,15 +147,9 @@
       <workItem from="1721231321718" duration="5546000" />
       <workItem from="1723932727178" duration="28598000" />
       <workItem from="1724332405417" duration="5000" />
-      <workItem from="1725043952256" duration="9346000" />
-    </task>
-    <task id="LOCAL-00013" summary="last min updates">
-      <option name="closed" value="true" />
-      <created>1711080168358</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1711080168358</updated>
+      <workItem from="1725043952256" duration="11366000" />
+      <workItem from="1725513166790" duration="9000" />
+      <workItem from="1725656637039" duration="2302000" />
     </task>
     <task id="LOCAL-00014" summary="running code">
       <option name="closed" value="true" />
@@ -538,7 +535,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725053009897</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="gaussiann func">
+      <option name="closed" value="true" />
+      <created>1725165420971</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1725165420971</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,6 +607,11 @@
           <url>notebook:///Users/arsalan/Developer/Pycharm/Masters_IITj/Computational Physics/Roots of equation.ipynb</url>
           <line>184</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/arsalan/Developer/Pycharm/Masters_IITj/Computational Physics/linear equation.ipynb</url>
+          <line>54</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
