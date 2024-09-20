@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be64a338-4f8d-4bef-8724-675d8bf904ae" name="Changes" comment="CP">
-      <change afterPath="$PROJECT_DIR$/Sem III/Computational Physics/4. Interpolation/1. Lagranges linear Interpolation.ipynb" afterDir="false" />
+    <list default="true" id="be64a338-4f8d-4bef-8724-675d8bf904ae" name="Changes" comment="CP - lagrange's interpolation">
+      <change afterPath="$PROJECT_DIR$/Sem III/Computational Physics/4. Interpolation/2. Newtons Interpolation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem III/Computational Physics/4. Interpolation/Spline method.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sem III/Computational Physics/Roots of equation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Sem III/Computational Physics/Roots of equation.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,15 +150,7 @@
       <workItem from="1725513166790" duration="9000" />
       <workItem from="1725656637039" duration="2534000" />
       <workItem from="1726823943608" duration="5946000" />
-      <workItem from="1726841277932" duration="990000" />
-    </task>
-    <task id="LOCAL-00016" summary="steepest descent functions fixed tolerence">
-      <option name="closed" value="true" />
-      <created>1711108300654</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1711108300654</updated>
+      <workItem from="1726841277932" duration="4079000" />
     </task>
     <task id="LOCAL-00017" summary="added graph and fixed tolerence">
       <option name="closed" value="true" />
@@ -544,7 +536,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726829686292</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="CP - lagrange's interpolation">
+      <option name="closed" value="true" />
+      <created>1726843043098</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1726843043098</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,7 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="combined data" />
     <MESSAGE value="ml ass2 and da updates" />
     <MESSAGE value="ml ass2 final fix" />
     <MESSAGE value="ml ass1 final fix" />
@@ -599,7 +598,8 @@
     <MESSAGE value="AI ass I" />
     <MESSAGE value="commit everything" />
     <MESSAGE value="CP" />
-    <option name="LAST_COMMIT_MESSAGE" value="CP" />
+    <MESSAGE value="CP - lagrange's interpolation" />
+    <option name="LAST_COMMIT_MESSAGE" value="CP - lagrange's interpolation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
