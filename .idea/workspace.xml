@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be64a338-4f8d-4bef-8724-675d8bf904ae" name="Changes" comment="AI ass I" />
+    <list default="true" id="be64a338-4f8d-4bef-8724-675d8bf904ae" name="Changes" comment="AI ass I">
+      <change afterPath="$PROJECT_DIR$/Sem III/Computational Physics/1. Roots of Equation/1. Bisection Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem III/Computational Physics/1. Roots of Equation/2. Newton's Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem III/Computational Physics/1. Roots of Equation/3. Secant Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem III/Computational Physics/1. Roots of Equation/4. Fixed point iteration method.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/blobs/version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem III/Computational Physics/Roots of equation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Sem III/Computational Physics/Roots of equation.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +74,7 @@
       <recent name="$PROJECT_DIR$/IP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Sem III/Computational Physics/1. Roots of Equation" />
       <recent name="$PROJECT_DIR$/Modelling and Simulations - III" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -144,6 +156,7 @@
       <workItem from="1725043952256" duration="11366000" />
       <workItem from="1725513166790" duration="9000" />
       <workItem from="1725656637039" duration="2534000" />
+      <workItem from="1726823943608" duration="5361000" />
     </task>
     <task id="LOCAL-00015" summary="running code">
       <option name="closed" value="true" />
@@ -567,7 +580,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new files ML" />
     <MESSAGE value="mini project da" />
     <MESSAGE value="combined data" />
     <MESSAGE value="ml ass2 and da updates" />
@@ -592,7 +604,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="gaussiann func" />
     <MESSAGE value="AI ass I" />
-    <option name="LAST_COMMIT_MESSAGE" value="AI ass I" />
+    <MESSAGE value="commit everything" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit everything" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
